@@ -1,0 +1,1 @@
+alert("This course is very good")
